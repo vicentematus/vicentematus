@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-i'm a failed attempt of UI designer and front-end developer, i have experience in Vanilla JS, React/Next.Js, Web Scraping with Python and Puppeteer
+Trying to be a Full-Stack developer with notions of UI/UX design. I have experience React/Next.Js, Typescript. For the backend mainly i use Express and MongoDB. With basic-intermediate knowledge of NoSQL and SQL databases.
 
 my journey started on december 2019
-
 
 my dribble [@vicentematus](https://dribbble.com/vicentematus)
