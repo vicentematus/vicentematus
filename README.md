@@ -1,6 +1,6 @@
-### Trying to be a fullstack developer 🐲
+### Software Engineer from Chile  🐲
 
-Trying to be a Full-Stack developer with notions of UI/UX design. I have experience React/Next.Js, Typescript. For the backend mainly i use Express and MongoDB. With basic-intermediate knowledge of NoSQL and SQL databases.
+Bachelor student in Computer Science. Trying to be a Full-Stack developer with notions of UI/UX design. I have experience React/Next.Js, Typescript. For the backend mainly i use Express and MongoDB. With basic-intermediate knowledge of NoSQL and SQL databases.
 
 And sometimes Web Scraping with Node.js Puppeteer.
 my journey started on december 2019
