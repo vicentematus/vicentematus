@@ -4,10 +4,7 @@ Bachelor student in Computer Science at [University of Bio-Bio](https://www.ubio
 
 Started to contributing to open source on the Svelte Kit repository, check my [contributions here](https://gist.github.com/vicentematus/d89f23d0611581acb6d417bc88de6e0b).
 
-and sometimes web scraping with Puppeteer or BeautifulSoup.
 my journey started on december 2019
 
-[check my website](https://www.vicentematus.cl/)
-
-my dribble [@vicentematus](https://dribbble.com/vicentematus)
+[check my website](https://www.vicentematus.cl/) | my dribble [@vicentematus](https://dribbble.com/vicentematus)
 
