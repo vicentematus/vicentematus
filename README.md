@@ -1,10 +1,12 @@
 ### Software Developer from Chile  🐲
 
-Bachelor student in Computer Science at [University of Bio-Bio](https://www.ubiobio.cl/w/). Full-Stack developer. I have experience with:  React/Next.Js, Typescript and Svelte! For backend: Express and MongoDB, or Prisma ORM with PostgreSQL, SQL databases.
+Currently working as a Software Engineer 1 at [MACH](https://www.somosmach.com/). Bachelor student in Computer Science at [University of Bio-Bio](https://www.ubiobio.cl/w/). Full-Stack developer. I have experience creating web applications with: React/Next.Js, Typescript and Svelte. Backend knowledge using Node/Express with relational databases and non relational databases using ORM's such as Prisma.
 
 Started to contributing to open source on the [Svelte Kit](https://github.com/sveltejs/kit) repository, check my [contributions here](https://gist.github.com/vicentematus/d89f23d0611581acb6d417bc88de6e0b).
 
-my journey started on december 2019
+My journey started on december 2019
 
-[check my website](https://www.vicentematus.cl/) | my dribble [@vicentematus](https://dribbble.com/vicentematus)
+[Check my website](https://www.vicentematus.cl/) | my dribble [@vicentematus](https://dribbble.com/vicentematus)
+
+I also do web scraping with python/beautifulsoup4/puppeteer.js 
 
