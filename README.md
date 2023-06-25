@@ -1,4 +1,4 @@
-### trying my best!
+### trying to pass the turing test 🤖
 
 Currently working as a Software Engineer 1 at [MACH](https://www.somosmach.com/). Bachelor student in Computer Science at [University of Bio-Bio](https://www.ubiobio.cl/w/)
 
