@@ -1,6 +1,6 @@
 ### Software Developer from Chile  🐲
 
-Currently working as a Software Engineer 1 at [MACH](https://www.somosmach.com/). Bachelor student in Computer Science at [University of Bio-Bio](https://www.ubiobio.cl/w/). Full-Stack developer. I have experience creating web applications with: React/Next.Js, Typescript and Svelte. Backend knowledge using Node/Express with relational databases and non relational databases using ORM's such as Prisma.
+Currently working as a Software Engineer 1 at [MACH](https://www.somosmach.com/). Bachelor student in Computer Science at [University of Bio-Bio](https://www.ubiobio.cl/w/)
 
 Started to contributing to open source on the [Svelte Kit](https://github.com/sveltejs/kit) repository, check my [contributions here](https://gist.github.com/vicentematus/d89f23d0611581acb6d417bc88de6e0b).
 
