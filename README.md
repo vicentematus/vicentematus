@@ -2,11 +2,11 @@
 
 Currently working as a Software Engineer 1 at [MACH](https://www.somosmach.com/). Bachelor degree in Computer Science at [University of Bio-Bio](https://www.ubiobio.cl/w/)
 
-Started to contributing to open source on the [Svelte Kit](https://github.com/sveltejs/kit) repository, check my [contributions here](https://gist.github.com/vicentematus/d89f23d0611581acb6d417bc88de6e0b).
+Contributed sometimes to open source on the [Svelte Kit](https://github.com/sveltejs/kit) repository, check my [contributions here](https://gist.github.com/vicentematus/d89f23d0611581acb6d417bc88de6e0b).
 
-[Check my website](https://www.vicentematus.cl/) | my dribble [@vicentematus](https://dribbble.com/vicentematus)
+[Check my website for more info](https://www.vicentematus.cl/) | my designs at dribble [@vicentematus](https://dribbble.com/vicentematus)
 
-I also do web scraping with python/beautifulsoup4/puppeteer.js 
+Web scraper junkie with python/beautifulsoup4/puppeteer.js
 
 listening to:
 
