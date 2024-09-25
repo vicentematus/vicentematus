@@ -3,8 +3,6 @@
 Helping the world quit addiction on [peacefulfoundation.org](https://peacefulfoundation.org/) - be free [easypeasymethod.org/
 ](https://easypeasymethod.org/)
 
-Contributed sometimes to open source on the [Svelte/Svelte Kit repository.](https://gist.github.com/vicentematus/d89f23d0611581acb6d417bc88de6e0b)
-
 ![doomplayer](https://github.com/user-attachments/assets/d20b80a7-8345-47d1-9574-3a9361fa795b)
  [ my website ](https://www.vicentematus.cl/) |  designs at dribble [@vicentematus](https://dribbble.com/vicentematus) | [street photographer enthusiast ](https://www.flickr.com/photos/vicentematus/)
 ![DOOMGUY](https://github.com/user-attachments/assets/a4f033e8-d519-4d26-a91a-3a2e58e1f521)
