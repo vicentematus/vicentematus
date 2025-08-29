@@ -1,4 +1,4 @@
-###  trying to pass the turing test 
+###  Trying to pass the turing test 
 
 Founding Engineer at a healthcare startup [Gokei](https://www.getgokei.com/) (Platanus Ventures 23-1). Helping the world quit addiction at [quiteasily.org](https://www.quiteasily.org/).
 
