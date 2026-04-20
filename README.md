@@ -1,6 +1,6 @@
 ###  Trying to pass the turing test 
 
-Helping the world quit addiction at [peacefulfoundation.org](https://peacefulfoundation.org).
+Organizing [hack.indies.la](https://hack.indies.la/). Helping the world quit addiction at [peacefulfoundation.org](https://peacefulfoundation.org).
 
 <!-- ![doomplayer](https://github.com/user-attachments/assets/d20b80a7-8345-47d1-9574-3a9361fa795b)
  [ my website ](https://www.vicentematus.cl/) |  designs at dribble [@vicentematus](https://dribbble.com/vicentematus) | [street photographer ](https://www.flickr.com/photos/vicentematus/)
